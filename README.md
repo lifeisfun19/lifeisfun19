@@ -1,12 +1,12 @@
 # 💫About Me :
 ## 👋 About Me :
 
-| 📌 | **I’m currently working on**     | A Mental Health Mood Tracker (NLP project in Healthcare domain) 🧠📊 |
+| 📌 |**I’m currently working on**     | A Mental Health Mood Tracker (NLP project in Healthcare domain) 🧠📊 |
 |----|----------------------------------|-------------------------------------------------------------|
-| 🤝 | **I’m looking to collaborate on**| Beginner-friendly ML/DSA projects, especially in NLP or web dev 🌐🤖 |
-| 🙌 | **I’m looking for help with**    | Advanced ML concepts, internship application tips, and resume reviews 🚀 |
-| 🌱 | **I’m currently learning**       | Data Structures & Algorithms (DSA), ML, System Design, and Resume Building 💻📈 |
-| ⚡ | **Fun fact**                    | I once treated debugging like therapy... until the bugs fought back 😅 |
+| 🤝 |**I’m looking to collaborate on**| Beginner-friendly ML/DSA projects, especially in NLP or web dev 🌐🤖 |
+| 🙌 |**I’m looking for help with**    | Advanced ML concepts, internship application tips, and resume reviews 🚀 |
+| 🌱 |**I’m currently learning**       | Data Structures & Algorithms (DSA), ML, System Design, and Resume Building 💻📈 |
+| ⚡ |**Fun fact**                    | I once treated debugging like therapy... until the bugs fought back 😅 |
 
 
 
